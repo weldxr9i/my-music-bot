@@ -1,0 +1,6 @@
+token = "MTU2ODc1MzA0NzA1ODc3NjE1NQ.GH1fcm.7wxBCWeX7c2O_MIYVA-CreMsolZJXmLLxhOHKM"
+owner = "1068764369426600036"
+prefix = "!"
+game = "Listening to !play"
+status = "ONLINE"
+stayinvoice = true
