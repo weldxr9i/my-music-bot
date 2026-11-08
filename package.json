@@ -1,0 +1,10 @@
+{
+  "name": "jmusicbot-24-7",
+  "version": "1.0.0",
+  "description": "تشغيل بوت الموسيقى الجاهز 24 ساعة",
+  "main": "config.txt",
+  "scripts": {
+    "install": "curl -L -o JMusicBot.jar https://github.com",
+    "start": "java -Dnogui=true -jar JMusicBot.jar"
+  }
+}
